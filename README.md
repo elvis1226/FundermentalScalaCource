@@ -1,1 +1,2 @@
-# FundermentalScalaCourse
+# Coursera 
+Functional Programming in Scala
